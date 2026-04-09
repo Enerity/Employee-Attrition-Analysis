@@ -26,6 +26,7 @@ Matplotlib / Seaborn
 Scikit-learn
 Google Colab
 
+
 Project Workflow
 1. Data Preprocessing
 Loaded and inspected dataset
@@ -65,13 +66,7 @@ Install dependencies:
 pip install -r requirements.txt
 Run the notebook or Python script
 
-Project Structure
-Employee-Attrition-Analysis/
-│
-├── HR_data/
-├── notebook.ipynb
-├── requirements.txt
-└── README.md
+
 
 Future Improvements
 Hyperparameter tuning for better model performance
